@@ -5,7 +5,7 @@
 <a href="https://blog.csdn.net/qq_41783491/"><img alt="Website" src="https://img.shields.io/badge/CSDN-blog.csdn.net/qq_41783491-blue?style=flat-square&logo=google-chrome"></a>
 <a href="newborne@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-newborne@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<br/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -36,18 +36,13 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/>
-
 <h3> ✨开源项目</h3>
 
 - [基于SpringBoot的智能推荐Demo](https://github.com/newborne/yizhi-demo)
 
-<br/>
 <p align="center">
 <a href="https://github.com/newborne">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newborne&theme=buefy&show_icons=true"  alt=""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newborne&theme=buefy&layout=compact"  alt=""/>
 </a>
 </p>
-
-<br/>
