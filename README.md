@@ -1,4 +1,4 @@
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3>🌍  &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://gitee.com/newborne/"><img alt="Website" src="https://img.shields.io/badge/Gitee-gitee.com/newborne-blue?style=flat-square&logo=google-chrome"></a>
@@ -36,7 +36,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<h3> ✨开源项目</h3>
+<h3> ✨ &nbsp;开源项目</h3>
 
 - [基于SpringBoot的智能推荐Demo](https://github.com/newborne/yizhi-demo)
 
