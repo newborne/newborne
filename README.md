@@ -6,6 +6,13 @@
 <a href="newborne@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-newborne@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<h3>🔬 &nbsp;Current Research Areas</h3>
+
+ ![Graph Clustering](https://img.shields.io/badge/Graph%20Clustering-333333?style=flat-square)
+  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-333333?style=flat-square)
+  ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-333333?style=flat-square)
+  ![Vulnerability Detection](https://img.shields.io/badge/Vulnerability%20Detection-333333?style=flat-square)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
