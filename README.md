@@ -9,12 +9,18 @@
 <h3>🔬 &nbsp;Current Research Areas</h3>
 
 <p align="center">
-
-  ![Graph Clustering](https://img.shields.io/badge/Graph%20Clustering-333333?style=flat-square)
-  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-333333?style=flat-square)
-  ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-333333?style=flat-square)
-  ![Vulnerability Detection](https://img.shields.io/badge/Vulnerability%20Detection-333333?style=flat-square)
-  
+  <a href="https://your-graph-clustering-link.com">
+    <img src="https://img.shields.io/badge/Graph%20Clustering-333333?style=flat-square" alt="Graph Clustering">
+  </a>
+  <a href="https://your-ai-link.com">
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-333333?style=flat-square" alt="Artificial Intelligence">
+  </a>
+  <a href="https://your-llm-link.com">
+    <img src="https://img.shields.io/badge/Large%20Language%20Models-333333?style=flat-square" alt="Large Language Models">
+  </a>
+  <a href="https://your-vuln-detection-link.com">
+    <img src="https://img.shields.io/badge/Vulnerability%20Detection-333333?style=flat-square" alt="Vulnerability Detection">
+  </a>
 </p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
