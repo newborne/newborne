@@ -8,11 +8,14 @@
 
 <h3>🔬 &nbsp;Current Research Areas</h3>
 
- ![Graph Clustering](https://img.shields.io/badge/Graph%20Clustering-333333?style=flat-square)
+<p align="center">
+
+  ![Graph Clustering](https://img.shields.io/badge/Graph%20Clustering-333333?style=flat-square)
   ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-333333?style=flat-square)
   ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-333333?style=flat-square)
   ![Vulnerability Detection](https://img.shields.io/badge/Vulnerability%20Detection-333333?style=flat-square)
-
+  
+</p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -43,7 +46,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<h3> ✨ &nbsp;开源项目</h3>
+<h3> 📚 &nbsp;Paper</h3>
+
+<h3> ✨ &nbsp;Project</h3>
 
 - **智能推荐系统 yizhi-demo**  
   基于 SpringBoot 的智能推荐解决方案，整合 MySQL、MongoDB、Spark、Redis 和 Neo4j，提供高效、灵活的推荐服务。  
